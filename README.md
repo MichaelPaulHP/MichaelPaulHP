@@ -1,15 +1,18 @@
+# 🚀 Welcome to my GitHub!  
 
-[gmail]: mailto:michael_h_p_@hotmail.com
-[github]: https://github.com/MichaelPaulHP
-### Hi there, I'm Michael Huahuasoncco 👋
+I'm Michael – a **Frontend Developer** who loves:  
+✨ Clean code + Angular + TypeScript  
+⚡ Specialized in **Angular, TypeScript, and Clean Architecture**.  
+🏦 Experience in the **banking sector**, delivering high-quality and performant UIs.  
+✨ Automating workflows with n8n  
+✨ Experimenting with Generative AI  
 
-I'm a Software Developer!
-- 🔭 I’m currently doing life related stuff
-- 🌱 I’m currently learning `spring boot with kotlin`
-- 👯 I’m looking how to conquer the world 
-- ⚡ Fun fact: I love 💻 | 🐶 | 🐱 | 🎵 
-- 🤔 I’m looking for help with recursion
-### Connect with me:
-[<img align="left" alt="Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+💡 My philosophy: *"Code should be simple, scalable, and easy to change."*  
 
+## 🌱 Currently Exploring
+- Building StyleMate, an AI-powered personal style assistant using multimodal LLMs, MongoDB vector search, and WhatsApp Business API.
+- Building AI-powered agents with **LangChain + LangGraph**  
 
+Let’s connect: 
+[LinkedIn](https://www.linkedin.com/in/michaelhuahuasoncco)  
+🌐 [Portfolio](https://michaelhuahuasoncco.vercel.app)  
